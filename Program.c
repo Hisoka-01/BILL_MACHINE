@@ -1,5 +1,6 @@
 #include "functions.h"   // Include the header file for declarations
-#include "functions.c"   // Include the source file for implementations
+
+//have to use gcc to compile both programs.c and functions.c at once and then we can run the program 
 
 #define max_Limit 20
 
