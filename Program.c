@@ -17,7 +17,8 @@ void welcome()
     printf(" view - View ur checklist\n");
     printf(" options - Review the list\n");
     printf(" end - to end the program\n");
-    printf("Enter ur choice  : /n");
+    printf("Enter ur choice  : \n");
+    printf(" ");
 }
 
 int main(int argc, char const *argv[])
